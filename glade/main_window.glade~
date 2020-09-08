@@ -14,7 +14,6 @@
     </child>
     <child>
       <object class="GtkFixed">
-        <property name="visible">True</property>
         <property name="can_focus">False</property>
         <child>
           <object class="GtkLabel">
@@ -27,9 +26,6 @@
             <property name="margin_left">15</property>
             <property name="margin_bottom">111</property>
             <property name="label" translatable="yes">This is a Main Window</property>
-            <attributes>
-              <attribute name="font-desc" value="System-ui 15"/>
-            </attributes>
           </object>
         </child>
       </object>
