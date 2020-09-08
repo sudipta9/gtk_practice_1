@@ -17,20 +17,52 @@
         <property name="visible">True</property>
         <property name="can_focus">False</property>
         <child>
-          <object class="GtkLabel">
-            <property name="width_request">147</property>
+          <object class="GtkLabel" id="print_hello">
+            <property name="width_request">220</property>
             <property name="height_request">80</property>
             <property name="visible">True</property>
             <property name="can_focus">False</property>
-            <property name="halign">end</property>
-            <property name="valign">end</property>
-            <property name="margin_left">15</property>
             <property name="margin_bottom">111</property>
-            <property name="label" translatable="yes">This is a Main Window</property>
+            <property name="label" translatable="yes">...</property>
             <attributes>
               <attribute name="font-desc" value="System-ui 15"/>
             </attributes>
           </object>
+          <packing>
+            <property name="x">329</property>
+            <property name="y">75</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButton" id="btn_hello">
+            <property name="label" translatable="yes">button</property>
+            <property name="width_request">100</property>
+            <property name="height_request">45</property>
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+            <signal name="clicked" handler="on_btn_hello_clicked" swapped="no"/>
+          </object>
+          <packing>
+            <property name="x">393</property>
+            <property name="y">398</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkLabel" id="count_hello">
+            <property name="width_request">100</property>
+            <property name="height_request">80</property>
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">...</property>
+            <attributes>
+              <attribute name="font-desc" value="System-ui 15"/>
+            </attributes>
+          </object>
+          <packing>
+            <property name="x">390</property>
+            <property name="y">161</property>
+          </packing>
         </child>
       </object>
     </child>
