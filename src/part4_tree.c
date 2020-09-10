@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
 
 	gtk_init(&argc, &argv); // init Gtk
 
-	builder = gtk_builder_new_from_file("../glade/part1_tree.glade");
+	builder = gtk_builder_new_from_file("../glade/part4_tree.glade");
 
 	window = GTK_WIDGET(gtk_builder_get_object(builder, "window"));
 
@@ -56,7 +56,7 @@ int main(int argc, char *argv[])
 
 	char line[1024], desc[1024], code[1024], *p1, *p2;
 	int level;
-	FILE *f1 = fopen("../files/mesh.txt", "r");
+	FILE *f1 = fopen("../files/mesh1.txt", "r");
 
 	if (f1 == NULL)
 	{
