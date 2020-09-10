@@ -1,0 +1,85 @@
+Body Regions;A01
+Abdomen;A01.047
+Abdominal Cavity;A01.047.025
+Peritoneum;A01.047.025.600
+Douglas' Pouch;A01.047.025.600.225
+Mesentery;A01.047.025.600.451
+Mesocolon;A01.047.025.600.451.535
+Omentum;A01.047.025.600.573
+Peritoneal Cavity;A01.047.025.600.678
+Retroperitoneal Space;A01.047.025.750
+Abdominal Wall;A01.047.050
+Groin;A01.047.365
+Inguinal Canal;A01.047.412
+Umbilicus;A01.047.849
+Back;A01.176
+Lumbosacral Region;A01.176.519
+Sacrococcygeal Region;A01.176.780
+Breast;A01.236
+Nipples;A01.236.500
+Extremities;A01.378
+Amputation Stumps;A01.378.100
+Lower Extremity;A01.378.610
+Buttocks;A01.378.610.100
+Foot;A01.378.610.250
+Ankle;A01.378.610.250.149
+Forefoot, Human;A01.378.610.250.300
+Metatarsus;A01.378.610.250.300.480
+Toes;A01.378.610.250.300.792
+Hallux;A01.378.610.250.300.792.380
+Heel;A01.378.610.250.510
+Hip;A01.378.610.400
+Knee;A01.378.610.450
+Leg;A01.378.610.500
+Thigh;A01.378.610.750
+Upper Extremity;A01.378.800
+Arm;A01.378.800.075
+Axilla;A01.378.800.090
+Elbow;A01.378.800.420
+Forearm;A01.378.800.585
+Hand;A01.378.800.667
+Fingers;A01.378.800.667.430
+Thumb;A01.378.800.667.430.705
+Wrist;A01.378.800.667.715
+Shoulder;A01.378.800.750
+Head;A01.456
+Ear;A01.456.313
+Face;A01.456.505
+Cheek;A01.456.505.173
+Chin;A01.456.505.259
+Eye;A01.456.505.420
+Eyebrows;A01.456.505.420.338
+Eyelids;A01.456.505.420.504
+Eyelashes;A01.456.505.420.504.421
+Forehead;A01.456.505.580
+Mouth;A01.456.505.631
+Lip;A01.456.505.631.515
+Nose;A01.456.505.733
+Parotid Region;A01.456.505.750
+Scalp;A01.456.810
+Skull Base;A01.456.830
+Cranial Fossa, Anterior;A01.456.830.150
+Cranial Fossa, Middle;A01.456.830.165
+Cranial Fossa, Posterior;A01.456.830.200
+Neck;A01.598
+Pelvis;A01.673
+Pelvic Floor;A01.673.600
+Perineum;A01.719
+Thorax;A01.911
+Thoracic Cavity;A01.911.800
+Mediastinum;A01.911.800.500
+Pleural Cavity;A01.911.800.650
+Thoracic Wall;A01.911.850
+Viscera;A01.960
+Musculoskeletal System;A02
+Cartilage;A02.165
+Cartilage, Articular;A02.165.165
+Ear Cartilages;A02.165.207
+Intervertebral Disk;A02.165.410
+Laryngeal Cartilages;A02.165.507
+Arytenoid Cartilage;A02.165.507.083
+Cricoid Cartilage;A02.165.507.211
+Epiglottis;A02.165.507.411
+Thyroid Cartilage;A02.165.507.870
+Menisci, Tibial;A02.165.590
+Nasal Septum;A02.165.639
